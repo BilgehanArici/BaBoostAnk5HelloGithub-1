@@ -18,6 +18,7 @@ Bu markdown syntax'ının kopya kağıdıdır. [Github Markdown Cheet Sheat](htt
 Merhaba benim adım Galip. Ba-Boost-Ank-5 öğrencisiyim.
 
 ### Sınıf Listesi
+- Github adı: yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
 - Github adı: galipyildiz [Galip Yıldız](https://github.com/galipyildiz)
 - Github adı: BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici)
 - Github adı: sinaemre [Sina Emre Bekar](https://github.com/sinaemre)
